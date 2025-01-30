@@ -1,5 +1,5 @@
-pattern = "abba"
-s = "dog cat cat dog"
+pattern = "aaa"
+s = "aa aa aa"
 
 h_p = {}
 h_s = {}
