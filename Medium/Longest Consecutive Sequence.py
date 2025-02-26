@@ -8,5 +8,3 @@ for n in nums:
             length += 1
         longest = max(length, longest)
 print(longest)
-
-       
