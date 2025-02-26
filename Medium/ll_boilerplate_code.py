@@ -31,7 +31,6 @@ class Solution:
         return left_list.next
         
         
-
 def list_to_linkedlist(elements):
     """ Convert list to linked list """
     if not elements:
